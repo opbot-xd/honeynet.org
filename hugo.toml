@@ -87,7 +87,7 @@ mediaTypes = ['image/gif']
   parent = 'GSoC'
   name = 'GSoC 2026'
   pageRef = '/gsoc/gsoc-2026'
-  weight = 18
+  weight = 17
 [[menu.main]]
   parent = 'GSoC'
   name = 'GSoC 2025'
